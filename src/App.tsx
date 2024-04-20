@@ -48,44 +48,7 @@ const App: React.FC = () => (
   <IonApp>
     <IonReactRouter>
       <IonRouterOutlet>
-        <Route exact path="/home">
-          <Verifyphone />
-        </Route>
-       
-        <Route exact path="/homeThree">
-          <VerifyphoneThree />
-        </Route>
-        <Route exact path="/email">
-          <Verifyemail />
-        </Route>
-        <Route exact path="/emailTwo">
-          <VerifyemailTwo />
-        </Route>
-        <Route exact path="/emailThree">
-          <VerifyemailThree />
-        </Route>
-        <Route exact path="/password">
-          <Createpassword />
-        </Route>
         
-        <Route exact path="/infoTwo">
-          <PersonalinfoTwo />
-        </Route>
-        <Route exact path="/Signin">
-          <Signin />
-        </Route>
-        <Route exact path="/SigninTwo">
-          <SigninTwo />
-        </Route>
-        <Route exact path="/Forgotpass">
-          <Forgotpass />
-        </Route>
-        <Route exact path="/Forgotpasstwo">
-          <Forgotpasstwo />
-        </Route>
-        <Route exact path="/Forgotpassthree">
-          <Forgotpassthree />
-        </Route>
         <Route exact path="/Coninue">
           <Continue />
         </Route>
