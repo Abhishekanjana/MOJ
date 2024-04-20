@@ -22,6 +22,7 @@ import Basicinfo from './pages/Basicinfo';
 import Personalinfoedu from './pages/Personalinfoedu';
 import Workexperience from './pages/Workexperience';
 
+// done
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
 
